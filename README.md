@@ -20,7 +20,7 @@ GTC_Project/
 (You can run pip install -r requirements.txt)
 
 2.Data Preparation
-Place your time series data files (CSV format) in the ./dataset/ directory.
+Place your time series data files (CSV format) in the ./dataset/ directory（You need to create by yourself).
 The default supported datasets are:ETTh1,ETTh2, ETTm1,ETTm2,Weather,Exchange.
 
 3.Configuration
